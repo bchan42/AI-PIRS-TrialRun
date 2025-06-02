@@ -29,5 +29,5 @@ Resources:
 * [install VSCode](https://code.visualstudio.com/download)
 * [download Python](https://www.python.org/downloads/)
 
-* [more details about installations](https://www.youtube.com/watch?v=9o4gDQvVkLU)
+* [video on more details about installations](https://www.youtube.com/watch?v=9o4gDQvVkLU)
 * [Github](https://github.com)
