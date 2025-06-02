@@ -1,4 +1,4 @@
-# AI-PIR-TrialRun
+# AI-PIRS-TrialRun
 
 Here are all the resources for our trial run on two Santa Barbara documents. 
 
