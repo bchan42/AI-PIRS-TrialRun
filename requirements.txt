@@ -1,0 +1,6 @@
+python-docx
+requests
+google-generativeai
+PyMuPDF
+gdown
+google-genai
