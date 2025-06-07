@@ -1,12 +1,12 @@
 # AI-PIRS-TrialRun
 
-Here are all the resources for our trial run on two Santa Barbara documents. 
+Here are all the resources for our trial run on two Santa Barbara and Temecula documents. 
 
 ## Documents:
 1. Eastern Goleta Valley Community Plan (Structured Document)
 2. Temecula Quality Life Plan (Unstructured Document)
 
-
+---
 
 ## Steps
 
@@ -22,12 +22,19 @@ Here are all the resources for our trial run on two Santa Barbara documents.
 
 4. Analyzing the Extracted Policies
     - Run LDA Model (topics & probabilities)
-    - Run NER / Gemini AI model (geospatial terms)
 
+---
 
-Resources:
-* [install VSCode](https://code.visualstudio.com/download)
-* [download Python](https://www.python.org/downloads/)
+## Resources
 
-* [video on more details about installations](https://www.youtube.com/watch?v=9o4gDQvVkLU)
-* [Github](https://github.com)
+- **Install VSCode**  
+  [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
+
+- **Download Python**  
+  [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+- **Installation Tutorial (VSCode + Python)**  
+  [https://www.youtube.com/watch?v=9o4gDQvVkLU](https://www.youtube.com/watch?v=9o4gDQvVkLU)
+
+- **GitHub**  
+  [https://github.com](https://github.com)
