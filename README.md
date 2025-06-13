@@ -2,6 +2,9 @@
 
 Here are all the resources for our trial run on two Santa Barbara and Temecula documents. 
 
+## Instructional Video Playlist
+[https://www.youtube.com/playlist?list=PLlmN125o_zLC6dqjg1MEaA6t24myoptH1](https://www.youtube.com/playlist?list=PLlmN125o_zLC6dqjg1MEaA6t24myoptH1)
+
 ## Documents:
 1. Eastern Goleta Valley Community Plan (Structured Document)
 2. Temecula Quality Life Plan (Unstructured Document)
